@@ -1,4 +1,5 @@
 ringbuf/hello_buffer_config
+ringbuf/hello_buffer_config.skel.h
 ringbuf/hello_buffer_config.bpf.o
 xdp/xdp_inspector.bpf.o
 

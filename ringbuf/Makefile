@@ -28,6 +28,7 @@ vmlinux.h:
 clean:
 	- rm $(BPF_OBJ)
 	- rm $(TARGET)
+	- rm $(USER_SKEL)
 
 run:
 	sudo ./$(TARGET)
